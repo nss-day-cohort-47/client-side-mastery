@@ -1,13 +1,13 @@
-# Book 2 - Glassdale Cold Case Cyber Police
+# Book 2 - Technically Averse Coding Offenses Department
 
 ## Chapters
 
-| #  | 🚓 <br/> Glassdale Cold Case <br/> <sub>(_Guided tour_)</sub> | 🎢 <br/> State Fair <sub> <br/> (_Custom events_)</sub> | 📔 <br/> Daily Journal <br/> <sub>(_Component application_)</sub> | 🏏 🍺 <br/>Truncheons &amp; Flagons <br/> <sub>(_Component application_)</sub>|
+| #  | 👽 <br/> Technically Averse Coding Offenses Department <br/> <sub>(_Guided tour_)</sub> | 🎢 <br/> State Fair <sub> <br/> (_Custom events_)</sub> | 📔 <br/> Daily Journal <br/> <sub>(_Component application_)</sub> | 🏏 🍺 <br/>Truncheons &amp; Flagons <br/> <sub>(_Component application_)</sub>|
 |--|--|--|--|--|
-| 1 | [Glassdale PD: Cold Case Cyber Police](./chapters/GLASSDALE_PD_INTRO.md) |  |  | [Application Requirements & Layout](./chapters/TF_STRUCTURE_LAYOUT.md) |
-| 2 | [Criminal API](./chapters/GLASSDALE_CRIMINAL_API.md) <br/> <sub style="font-size:0.85rem;">#api #json #fetch</sub> |  |  |  |
-| 3 | [Likely Suspects](./chapters/GLASSDALE_CRIMINAL_HISTORY.md) <br/> <sub style="font-size:0.85rem;">#array-map</sub> |  |  | [Game Data](./chapters/TF_GAME_DATA.md) |
-| 4 | [Decoupling with Events](./chapters/GLASSDALE_DECOUPLING.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> |  |  | [Rendering Game Data](./chapters/TF_GAME_RENDER.md) |
+| 1 | [Technically Averse Coding Offenses Department](./chapters/TACOD_INTRO.md) |  |  | [Application Requirements & Layout](./chapters/TF_STRUCTURE_LAYOUT.md) |
+| 2 | [TACOD API](./chapters/TACOD_EVIDENCE_API.md) <br/> <sub style="font-size:0.85rem;">#api #json #fetch</sub> |  |  |  |
+| 3 | [Gathered Evidence](./chapters/TACOD_EVIDENCE_HISTORY.md) <br/> <sub style="font-size:0.85rem;">#array-map</sub> |  |  | [Game Data](./chapters/TF_GAME_DATA.md) |
+| 4 | [Decoupling with Events](./chapters/TACOD_DECOUPLING.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> |  |  | [Rendering Game Data](./chapters/TF_GAME_RENDER.md) |
 | 5 | [Likely Suspects with Event Hub](./chapters/GLASSDALE_EVENT_HUB.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> | [Going to the Fair](./chapters/SF_SETUP.md) |  |  |
 | 6 | [Arresting Officer](./chapters/GLASSDALE_ARRESTING_OFFICERS.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Ticket to Ride](./chapters/SF_RIDE_TICKET.md) |  |  |
 | 7 | [Case Notes API - Making Entries](./chapters/GLASSDALE_NOTES_API.md) <br/> <sub style="font-size:0.85rem;">#fetch #POST #custom-events #user-input</sub> | [Food Ticket](./chapters/SF_FOOD_TICKET.md) | [Entry API](./chapters/DAILY_JOURNAL_FETCHING.md) | [Truncheons &amp; Flagons API](./chapters/TF_API.md) |
