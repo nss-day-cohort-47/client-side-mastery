@@ -10,8 +10,7 @@ For this book, you will be consuming the Technically Averse Coding Offenses Depa
 
 
 ## Introduction
-> Yup, story goes here
-
+TODO: Write a beautiful story about how there is an API that a previous student/agent (now graduate) made to keep track of all the evidence gathered about the instructors, and now the current students/agents need to make a site that uses that API 👍
 
 ## Requesting Data from an API
 
@@ -71,7 +70,7 @@ Your first assignment is to pull all of the data from the API (see above) and di
 1. Start Date
 1. Evidence
 
-![grid layout of criminals](./images/tacod-assignment-1.png)
+![grid layout of instructors](./images/tacod-assignment-1.png)
 
 ### Tips
 
