@@ -1,0 +1,324 @@
+{
+    "evidence": [
+        {
+            "name": "writes code without any caffeine in the morning",
+            "id": 1
+        },
+        {
+            "name": "merged directly into master/main",
+            "id": 2
+        },
+        {
+            "name": "crossed the no fly zone",
+            "id": 3
+        },
+        {
+            "name": "rewrote someone else's code",
+            "id": 4
+        },
+        {
+            "name": "did not comment their code",
+            "id": 5
+        },
+        {
+            "name": "did not make a README",
+            "id": 6
+        },
+        {
+            "name": "merging someone else's PR",
+            "id": 7
+        }
+    ],
+    "suspicions": [
+        {
+            "id": 1,
+            "name": "Issac Mosciski",
+            "statements": "I saw Adam Sheaffer without his usual sweater"
+        },
+        {
+            "id": 2,
+            "name": "Maud Lueilwitz",
+            "statements": "Jisie David "
+        },
+        {
+            "id": 3,
+            "name": "Wilhelmine Carter",
+            "statements": "Wasn't very tall"
+        },
+        {
+            "id": 4,
+            "name": "Laury Hickle",
+            "statements": "He wore old, red shoes"
+        },
+        {
+            "id": 5,
+            "name": "Buster Corwin",
+            "statements": "Breath smelled like fish"
+        },
+        {
+            "id": 6,
+            "name": "Ceasar Barrows",
+            "statements": "Was wearing a car dealership hat"
+        },
+        {
+            "id": 7,
+            "name": "Augustus Heidenreich",
+            "statements": "Was wearing a car dealership hat"
+        },
+        {
+            "id": 8,
+            "name": "Candice Grady",
+            "statements": "Think he drove a large pickup truck"
+        },
+        {
+            "id": 9,
+            "name": "Nayeli Altenwerth",
+            "statements": "Mentioned he had a pet"
+        }
+    ],
+    "instructors": [
+        {
+            "id": 1,
+            "age": 22,
+            "eyeColor": "green",
+            "name": "Jessica Davis",
+            "phone": "774-195-7440",
+            "jobType": "Lead Instructor",
+            "address": "404 Lost Ct 938\nLoriview, KY 09715-1234",
+            "evidence": "rewrote someone else's code",
+            "agentReported": "Emma Citrus",
+            "known_associates": [
+                {
+                    "name": "Madelyn Salt",
+                    "alibi": "I'm like 67% sure it was their own code"
+                },
+                {
+                    "name": "Jenny Nolease",
+                    "alibi": "started a cult"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "age": 33,
+            "eyeColor": "blue",
+            "name": "Debbie Short",
+            "phone": "345-675-1234",
+            "jobType": "Lead Instructor",
+            "address": "512 Make Believe Way 938\nReal, TN 32815-1234",
+            "evidence": "merging someone else's PR",
+            "agentReported": "Leigha Coughling",
+            "known_associates": [
+                {
+                    "name": "Kirsten Yessis",
+                    "alibi": "Well, I saw that they were working on that project too but I didn't see them merge a PR that wasn't theirs."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "age": 28,
+            "eyeColor": "brown",
+            "name": "John Lambherd",
+            "phone": "671-978-6232",
+            "jobType": "Lead Instructor",
+            "address": "418 Teapot Dr 938\nReal, TN 32815-1234",
+            "evidence": "rewrote someone else's code",
+            "agentReported": "Emma Citrus",
+            "known_associates": [
+                {
+                    "name": "Jenny Nolease",
+                    "alibi": "I saw them in the classroom working on their own code"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "age": 44,
+            "eyeColor": "brown",
+            "name": "Lee Goldenrod",
+            "phone": "912-534-3451",
+            "jobType": "Senior Lead Instructor",
+            "address": "500 Outtamy Way 938\nGlassdale, TN 31814-1234",
+            "evidence": "did not make a README",
+            "agentReported": "Emma Citrus",
+            "known_associates": [
+                {
+                    "name": "Keyshawn Kemmer",
+                    "alibi": "singing karaoke"
+                },
+                {
+                    "name": "Orville Rogahn",
+                    "alibi": "eating a table"
+                },
+                {
+                    "name": "Alysha Mayert",
+                    "alibi": "riding a bike"
+                },
+                {
+                    "name": "Donna Grimes",
+                    "alibi": "inventing coffee"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "age": 46,
+            "eyeColor": "brown",
+            "name": "Bobby Dawlins",
+            "phone": "534-129-8672",
+            "jobType": "Lead Instructor",
+            "address": "403 Forbidden Cir 938\nBelieve, TN 31814-1234",
+            "evidence": "crossed the no fly zone",
+            "agentReported": "Emma Citrus",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "wrote C#"
+                }
+            ]
+        }
+    ],
+    "agents": [
+        {
+            "id": 1,
+            "name": "Emma Citrus"
+        },
+        {
+            "id": 2,
+            "name": "Leigha Coughling"
+        },
+        {
+            "id": 3,
+            "name": "Braden Stoltenberg"
+        },
+        {
+            "id": 5,
+            "name": "Betty Flatley"
+        },
+        {
+            "id": 6,
+            "name": "Lilian Pfannerstill"
+        },
+        {
+            "id": 7,
+            "name": "Karolann Green"
+        },
+        {
+            "id": 8,
+            "name": "Terrence Parisian"
+        },
+        {
+            "id": 9,
+            "name": "Arne Carroll"
+        }
+    ],
+    "cohorts": [
+        {
+            "id": 1,
+            "cohortName": "Day Cohort 24",
+            "techStack": "JavaScript/React" 
+        },
+        {
+            "id": 2,
+            "cohortName": "Day Cohort 25",
+            "techStack": "Python/Django" 
+        },
+        {
+            "id": 3,
+            "cohortName": "Day Cohort 26",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 4,
+            "cohortName": "Day Cohort 27",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 5,
+            "cohortName": "Day Cohort 28",
+            "techStack": "Python/Django" 
+        },
+        {
+            "id": 6,
+            "cohortName": "Day Cohort 29",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 7,
+            "cohortName": "Day Cohort 30",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 8,
+            "cohortName": "Day Cohort 31",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 9,
+            "cohortName": "Day Cohort 32",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 10,
+            "cohortName": "Day Cohort 33",
+            "techStack": "Python/Django"
+        },
+        {
+            "id": 11,
+            "cohortName": "Day Cohort 34",
+            "techStack": "C#/.NET Core" 
+        },
+        {
+            "id": 12,
+            "cohortName": "Day Cohort 35",
+            "techStack": "C#/.NET and JavaScript/React" 
+        },
+        {
+            "id": 13,
+            "cohortName": "Day Cohort 36",
+            "techStack": "Python/Django"
+        },
+        {
+            "id": 14,
+            "cohortName": "Day Cohort 37",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 15,
+            "cohortName": "Day Cohort 38",
+            "techStack": "Python/Django"
+        },
+        {
+            "id": 16,
+            "cohortName": "Day Cohort 39",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 17,
+            "cohortName": "Day Cohort 40",
+            "techStack": "Python/Django"
+        },
+        {
+            "id": 18,
+            "cohortName": "Day Cohort 41",
+            "techStack": "C#/.NET Core"
+        },
+        {
+            "id": 19,
+            "cohortName": "Day Cohort 42",
+            "techStack": "Python/Django"
+        },
+        {
+            "id": 20,
+            "cohortName": "Day Cohort 43",
+            "techStack": "C#/.NET Core and UI/UX"
+        },
+        {
+            "id": 21,
+            "cohortName": "Day Cohort 44",
+            "techStack": "Python/Django"
+        }
+    ],
+    "instructorCohorts": []
+}
