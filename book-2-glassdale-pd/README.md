@@ -12,7 +12,7 @@
 | 6 | [Investigating Agent](./chapters/TACOD_INVESTIGATING_AGENTS.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Ticket to Ride](./chapters/SF_RIDE_TICKET.md) |  |  |
 | 7 | [Investigation Notes API - Making Entries](./chapters/TACOD_NOTES_API.md) <br/> <sub style="font-size:0.85rem;">#fetch #POST #custom-events #user-input</sub> | [Food Ticket](./chapters/SF_FOOD_TICKET.md) | [Entry API](./chapters/DAILY_JOURNAL_FETCHING.md) | [Truncheons &amp; Flagons API](./chapters/TF_API.md) |
 | 8 | [What's Your Alibi?](./chapters/TACOD_ALIBI.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Game Tickets](./chapters/SF_GAME_TICKET.md) | [Journal Form Component](./chapters/DAILY_JOURNAL_FORM_COMPONENT.md) | [Adding Teams](./chapters/TF_FORMS.md) |
-| 9 | [Interviewing Witnesses](./chapters/GLASSDALE_WITNESSES.md) <br/> <sub style="font-size:0.85rem;">#custom-events #user-input #fetch #POST</sub> |  |  |
+| 9 | [Interviewing Witnesses](./chapters/TACOD_WITNESSES.md) <br/> <sub style="font-size:0.85rem;">#custom-events #user-input #fetch #POST</sub> |  |  |
 | 10 | [Fundamental Workshop](./chapters/EVENTS_WORKSHOP.md) | [Sideshow Thrills](./chapters/SF_SIDESHOW_TICKET.md) |  [Saving Entries](./chapters/DAILY_JOURNAL_SAVING_ENTRIES.md) | [Leaderboard / Team List](./chapters/TF_LEADERBOARD_TEAMS.md) |
 | 👨‍👨‍👦‍👦 | **_Group Project: Holiday Road_** |  |  |  |
 | 11 | [Entity Relationship Diagram](./chapters/ERD.md) <br/> <sub style="font-size:0.85rem;">#data-relationships</sub> |  |  |
