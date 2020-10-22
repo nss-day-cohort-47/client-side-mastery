@@ -9,7 +9,7 @@
 | 3 | [Gathered Evidence](./chapters/TACOD_EVIDENCE_HISTORY.md) <br/> <sub style="font-size:0.85rem;">#array-map</sub> |  |  | [Game Data](./chapters/TF_GAME_DATA.md) |
 | 4 | [Decoupling with Events](./chapters/TACOD_DECOUPLING.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> |  |  | [Rendering Game Data](./chapters/TF_GAME_RENDER.md) |
 | 5 | [Gathered Evidence with Event Hub](./chapters/TACOD_EVENT_HUB.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> | [Going to the Fair](./chapters/SF_SETUP.md) |  |  |
-| 6 | [Arresting Officer](./chapters/GLASSDALE_ARRESTING_OFFICERS.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Ticket to Ride](./chapters/SF_RIDE_TICKET.md) |  |  |
+| 6 | [Investigating Agent](./chapters/TACOD_INVESTIGATING_AGENTS.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Ticket to Ride](./chapters/SF_RIDE_TICKET.md) |  |  |
 | 7 | [Case Notes API - Making Entries](./chapters/GLASSDALE_NOTES_API.md) <br/> <sub style="font-size:0.85rem;">#fetch #POST #custom-events #user-input</sub> | [Food Ticket](./chapters/SF_FOOD_TICKET.md) | [Entry API](./chapters/DAILY_JOURNAL_FETCHING.md) | [Truncheons &amp; Flagons API](./chapters/TF_API.md) |
 | 8 | [What's Your Alibi?](./chapters/GLASSDALE_ALIBI.md) <br/> <sub style="font-size:0.85rem;">#custom-events</sub> | [Game Tickets](./chapters/SF_GAME_TICKET.md) | [Journal Form Component](./chapters/DAILY_JOURNAL_FORM_COMPONENT.md) | [Adding Teams](./chapters/TF_FORMS.md) |
 | 9 | [Interviewing Witnesses](./chapters/GLASSDALE_WITNESSES.md) <br/> <sub style="font-size:0.85rem;">#custom-events #user-input #fetch #POST</sub> |  |  |
