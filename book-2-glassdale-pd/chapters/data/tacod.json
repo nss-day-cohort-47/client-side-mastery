@@ -53,7 +53,7 @@
         {
             "id": 5,
             "name": "Buster Corwin",
-            "statements": "Breath smelled like fish"
+            "statements": "Daisy 'Razor Clam' Wazowski calimed they were the shrimp goddess"
         },
         {
             "id": 6,
@@ -79,14 +79,14 @@
     "instructors": [
         {
             "id": 1,
-            "age": 22,
-            "eyeColor": "green",
+            "age": 37,
             "name": "Jessica Davis",
             "phone": "774-195-7440",
             "jobType": "Lead Instructor",
             "address": "404 Lost Ct 938\nLoriview, KY 09715-1234",
             "evidence": "rewrote someone else's code",
             "agentReported": "Emma Citrus",
+            "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
                     "name": "Madelyn Salt",
@@ -101,47 +101,51 @@
         {
             "id": 2,
             "age": 33,
-            "eyeColor": "blue",
             "name": "Debbie Short",
             "phone": "345-675-1234",
             "jobType": "Lead Instructor",
             "address": "512 Make Believe Way 938\nReal, TN 32815-1234",
             "evidence": "merging someone else's PR",
-            "agentReported": "Leigha Coughling",
+            "agentReported": "Lisa Coughling",
+            "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
                     "name": "Kirsten Yessis",
-                    "alibi": "Well, I saw that they were working on that project too but I didn't see them merge a PR that wasn't theirs."
+                    "alibi": "Well, I saw that they were working on that project too, but I didn't see them merge a PR that wasn't theirs."
+                },
+                {
+                    "name": "Jenny Nolease",
+                    "alibi": "collecting boxes of sweets"
                 }
             ]
         },
         {
             "id": 3,
             "age": 28,
-            "eyeColor": "brown",
             "name": "John Lambherd",
             "phone": "671-978-6232",
             "jobType": "Lead Instructor",
             "address": "418 Teapot Dr 938\nReal, TN 32815-1234",
             "evidence": "rewrote someone else's code",
             "agentReported": "Emma Citrus",
+            "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
-                    "name": "Jenny Nolease",
-                    "alibi": "I saw them in the classroom working on their own code"
+                    "name": "Kirsten Yessis",
+                    "alibi": "eating broccoli"
                 }
             ]
         },
         {
             "id": 4,
             "age": 44,
-            "eyeColor": "brown",
             "name": "Lee Goldenrod",
             "phone": "912-534-3451",
             "jobType": "Senior Lead Instructor",
             "address": "500 Outtamy Way 938\nGlassdale, TN 31814-1234",
             "evidence": "did not make a README",
             "agentReported": "Emma Citrus",
+            "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
                     "name": "Keyshawn Kemmer",
@@ -149,7 +153,7 @@
                 },
                 {
                     "name": "Orville Rogahn",
-                    "alibi": "eating a table"
+                    "alibi": "always coaching"
                 },
                 {
                     "name": "Alysha Mayert",
@@ -164,17 +168,85 @@
         {
             "id": 5,
             "age": 46,
-            "eyeColor": "brown",
             "name": "Bobby Dawlins",
             "phone": "534-129-8672",
             "jobType": "Lead Instructor",
-            "address": "403 Forbidden Cir 938\nBelieve, TN 31814-1234",
-            "evidence": "crossed the no fly zone",
+            "address": "403 Forbidden Cir 938\nBelieve, TN 31674-1234",
+            "evidence": "rewrote someone else's code",
             "agentReported": "Emma Citrus",
+            "startDate": "2018-10-28T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Madelyn Salt",
+                    "alibi": "wrote C#"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "age": 46,
+            "name": "A-aron Shaver",
+            "phone": "534-129-8672",
+            "jobType": "Lead Instructor",
+            "address": "403 Forbidden Cir 938\nBelieve, TN 31814-1234",
+            "evidence": "merged directly into master/main",
+            "agentReported": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
             "known_associates": [
                 {
                     "name": "Norwood Jaskolski",
-                    "alibi": "wrote C#"
+                    "alibi": "saw them using Vue.js"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "age": 26,
+            "name": "Lo Goldera",
+            "phone": "654-264-1653",
+            "jobType": "Junior Instructor",
+            "address": "418 Teapot Cir 938\nNashville, TN 39812-1234",
+            "evidence": "writes code without any caffeine in the morning",
+            "agentReported": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "makes SO much tea"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "age": 42,
+            "name": "Brain Five",
+            "phone": "632-435-1342",
+            "jobType": "Junior Instructor",
+            "address": "500 Internal Cir 938\nNashville, TN 39812-1234",
+            "evidence": "did not make a README",
+            "agentReported": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "sat in the hallway and gave out high fives"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "age": 82,
+            "name": "Daisy 'Razor Clam' Wazowski",
+            "phone": "632-435-1342",
+            "jobType": "Junior Instructor",
+            "address": "401 Unauthorized Ct 938\nFlavortown, TN 39812-1234",
+            "evidence": "did not make a README",
+            "agentReported": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "ran into a glass door"
                 }
             ]
         }
@@ -186,7 +258,7 @@
         },
         {
             "id": 2,
-            "name": "Leigha Coughling"
+            "name": "Lisa Coughling"
         },
         {
             "id": 3,
