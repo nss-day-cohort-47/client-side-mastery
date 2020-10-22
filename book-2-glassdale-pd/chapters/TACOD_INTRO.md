@@ -8,7 +8,7 @@ The endpoints are being replaced with:
 - ~~Criminals~~ --> Instructors
 - ~~Officers~~ --> Agents (the students)
 - ~~Crimes/Convictions~~ --> Evidence
-- ~~Witnesses~~ --> Suspicions
+- ~~Witnesses~~ --> Witnesses
 - ~~Facilities~~ --> Cohorts
 - ~~CriminalFacilities~~ --> InstructorCohorts
 
