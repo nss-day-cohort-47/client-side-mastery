@@ -2,7 +2,7 @@
 
 ## Why Are You Learning This?
 
-Properly structured and normalized databases can save a development team, and an entire business, hundreds of hours and millions of dollars over a pooly designed one. The database design is, by far, the most important thing to get right in an application because it is also is the hardest to change, and those changes affect everything about the application.
+Properly structured and normalized databases can save a development team, and an entire business, hundreds of hours and millions of dollars over a pooly designed one. The database design is, by far, the most important thing to get right in an application because it is also the hardest to change, and those changes affect everything about the application.
 
 ![visualization of database being highest cost of change](./images/cost-of-change.png)
 
