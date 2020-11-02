@@ -5,7 +5,7 @@
 | #  | 👽 <br/> Technically Averse Coding Offenses Department <br/> <sub>(_Guided tour_)</sub> | 🎢 <br/> State Fair <sub> <br/> (_Custom events_)</sub> | 📔 <br/> Daily Journal <br/> <sub>(_Component application_)</sub> | 🏏 🍺 <br/>Truncheons &amp; Flagons <br/> <sub>(_Component application_)</sub>|
 |--|--|--|--|--|
 | 1 | [Technically Averse Coding Offenses Department](./chapters/TACOD_INTRO.md) |  |  | [Application Requirements & Layout](./chapters/TF_STRUCTURE_LAYOUT.md) |
-| 2 | [TACOD API](./chapters/TACOD_EVIDENCE_API.md) <br/> <sub style="font-size:0.85rem;">#api #json #fetch</sub> |  |  |  |
+| 2 | [TACOD API](./chapters/TACOD_API.md) <br/> <sub style="font-size:0.85rem;">#api #json #fetch</sub> |  |  |  |
 | 3 | [Gathered Evidence](./chapters/TACOD_EVIDENCE_HISTORY.md) <br/> <sub style="font-size:0.85rem;">#array-map</sub> |  |  | [Game Data](./chapters/TF_GAME_DATA.md) |
 | 4 | [Decoupling with Events](./chapters/TACOD_DECOUPLING.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> |  |  | [Rendering Game Data](./chapters/TF_GAME_RENDER.md) |
 | 5 | [Gathered Evidence with Event Hub](./chapters/TACOD_EVENT_HUB.md) <br/> <sub style="font-size:0.85rem;">#browser-events #custom-events</sub> | [Going to the Fair](./chapters/SF_SETUP.md) |  |  |
