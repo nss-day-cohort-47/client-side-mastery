@@ -85,7 +85,7 @@
             "jobType": "Lead Instructor",
             "address": "404 Lost Ct 938\nLoriview, KY 09715-1234",
             "evidence": "rewrote someone else's code",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -106,7 +106,7 @@
             "jobType": "Lead Instructor",
             "address": "512 Make Believe Way 938\nReal, TN 32815-1234",
             "evidence": "merging someone else's PR",
-            "agentReported": "Lisa Coughling",
+            "investigatedBy": "Lisa Coughling",
             "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -127,7 +127,7 @@
             "jobType": "Lead Instructor",
             "address": "418 Teapot Dr 938\nReal, TN 32815-1234",
             "evidence": "rewrote someone else's code",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -144,7 +144,7 @@
             "jobType": "Senior Lead Instructor",
             "address": "500 Outtamy Way 938\nGlassdale, TN 31814-1234",
             "evidence": "did not make a README",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2015-10-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -173,7 +173,7 @@
             "jobType": "Lead Instructor",
             "address": "403 Forbidden Cir 938\nBelieve, TN 31674-1234",
             "evidence": "rewrote someone else's code",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2018-10-28T16:19:42.359Z",
             "known_associates": [
                 {
@@ -183,14 +183,14 @@
             ]
         },
         {
-            "id": 5,
+            "id": 6,
             "age": 46,
             "name": "A-aron Shaver",
             "phone": "534-129-8672",
             "jobType": "Lead Instructor",
             "address": "403 Forbidden Cir 938\nBelieve, TN 31814-1234",
             "evidence": "merged directly into master/main",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2019-02-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -200,14 +200,14 @@
             ]
         },
         {
-            "id": 6,
+            "id": 7,
             "age": 26,
             "name": "Lo Goldera",
             "phone": "654-264-1653",
             "jobType": "Junior Instructor",
             "address": "418 Teapot Cir 938\nNashville, TN 39812-1234",
             "evidence": "writes code without any caffeine in the morning",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2019-02-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -218,13 +218,30 @@
         },
         {
             "id": 7,
+            "age": 26,
+            "name": "Lo Goldera",
+            "phone": "654-264-1653",
+            "jobType": "Junior Instructor",
+            "address": "418 Teapot Cir 938\nNashville, TN 39812-1234",
+            "evidence": "writes code without any caffeine in the morning",
+            "investigatedBy": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "makes SO much tea"
+                }
+            ]
+        },
+        {
+            "id": 8,
             "age": 42,
             "name": "Brain Five",
             "phone": "632-435-1342",
             "jobType": "Junior Instructor",
             "address": "500 Internal Cir 938\nNashville, TN 39812-1234",
             "evidence": "did not make a README",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2019-02-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -234,14 +251,48 @@
             ]
         },
         {
-            "id": 8,
+            "id": 9,
             "age": 82,
             "name": "Daisy 'Razor Clam' Wazowski",
             "phone": "632-435-1342",
             "jobType": "Junior Instructor",
             "address": "401 Unauthorized Ct 938\nFlavortown, TN 39812-1234",
+            "evidence": "did not comment their code",
+            "investigatedBy": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "ran into a glass door"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "age": 30,
+            "name": "Thyme Houchens",
+            "phone": "123-342-6753",
+            "jobType": "Junior Instructor",
+            "address": "100 Continue Way 938\nNashville, TN 39812-1234",
+            "evidence": "crossed the no fly zone",
+            "investigatedBy": "Emma Citrus",
+            "startDate": "2019-02-03T16:19:42.359Z",
+            "known_associates": [
+                {
+                    "name": "Norwood Jaskolski",
+                    "alibi": "ran into a glass door"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "age": 30,
+            "name": "Madelyn Salt",
+            "phone": "123-342-6753",
+            "jobType": "Junior Instructor",
+            "address": "100 Continue Way 938\nNashville, TN 39812-1234",
             "evidence": "did not make a README",
-            "agentReported": "Emma Citrus",
+            "investigatedBy": "Emma Citrus",
             "startDate": "2019-02-03T16:19:42.359Z",
             "known_associates": [
                 {
@@ -392,5 +443,151 @@
             "techStack": "Python/Django"
         }
     ],
-    "instructorCohorts": []
+    "instructorCohorts": [
+        {
+            "id": 1,
+            "instructorId": 1,
+            "cohortId":3
+        },
+        {
+            "id": 2,
+            "instructorId": 2,
+            "cohortId":1
+        },
+        {
+            "id": 3,
+            "instructorId": 3,
+            "cohortId":2
+        },
+        {
+            "id": 4,
+            "instructorId": 4,
+            "cohortId":4
+        },
+        {
+            "id": 5,
+            "instructorId": 5,
+            "cohortId":6
+        },
+        {
+            "id": 6,
+            "instructorId": 6,
+            "cohortId":5
+        },
+        {
+            "id": 7,
+            "instructorId": 7,
+            "cohortId":8
+        },
+        {
+            "id": 8,
+            "instructorId": 8,
+            "cohortId": 10
+        },
+        {
+            "id": 9,
+            "instructorId": 9,
+            "cohortId": 11
+        },
+        {
+            "id": 10,
+            "instructorId": 10,
+            "cohortId": 9
+        },
+        {
+            "id": 11,
+            "instructorId": 11,
+            "cohortId": 7
+        },
+        {
+            "id": 12,
+            "instructorId": 1,
+            "cohortId": 12
+        },
+        {
+            "id": 13,
+            "instructorId": 2,
+            "cohortId": 13
+        },
+        {
+            "id": 14,
+            "instructorId": 3,
+            "cohortId": 14
+        },
+        {
+            "id": 15,
+            "instructorId": 4,
+            "cohortId": 15
+        },
+        {
+            "id": 16,
+            "instructorId": 5,
+            "cohortId": 16
+        },
+        {
+            "id": 17,
+            "instructorId": 6,
+            "cohortId": 17
+        },
+        {
+            "id": 18,
+            "instructorId": 7,
+            "cohortId": 18
+        },
+        {
+            "id": 19,
+            "instructorId": 8,
+            "cohortId": 19
+        },
+        {
+            "id": 20,
+            "instructorId": 9,
+            "cohortId": 20
+        },
+        {
+            "id": 21,
+            "instructorId": 10,
+            "cohortId": 21
+        },
+        {
+            "id": 22,
+            "instructorId": 11,
+            "cohortId": 1
+        },
+        {
+            "id": 23,
+            "instructorId": 1,
+            "cohortId": 1
+        },
+        {
+            "id": 24,
+            "instructorId": 2,
+            "cohortId": 2
+        },
+        {
+            "id": 25,
+            "instructorId": 3,
+            "cohortId": 3
+        },
+        {
+            "id": 26,
+            "instructorId": 4,
+            "cohortId": 4
+        },
+        {
+            "id": 27,
+            "instructorId": 5,
+            "cohortId": 5
+        },
+        {
+            "id": 28,
+            "instructorId": 6,
+            "cohortId": 6
+        },
+        {
+            "id": 29,
+            "instructorId": 7,
+            "cohortId": 7
+        }
+    ]
 }

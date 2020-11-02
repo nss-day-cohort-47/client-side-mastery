@@ -20,7 +20,7 @@
 | 13 | [Notes on Instructors](./chapters/TACOD_INSTRUCTOR_NOTES.md) <br/> <sub style="font-size:0.85rem;">#user-input #fetch #POST</sub> |  | [Recording your Mood](./chapters/DAILY_JOURNAL_MOOD.md) |  |
 | 14 | [Deleting Case File Notes](./chapters/TACOD_DELETE_NOTES.md) <br/> <sub style="font-size:0.85rem;">#fetch #DELETE #custom-events</sub> |  | [Deleting Entries](./chapters/DAILY_JOURNAL_DELETING_ENTRIES.md) | [Selecting Teams for Game](./chapters/TF_CHOOSE_TEAMS.md) |
 | 15 | [Many to Many Relationships](./chapters/MANY_MANY.md) <br/> <sub style="font-size:0.85rem;">#data-relationships</sub> | [Total Tickets Challenge](./chapters/SF_CUSTOMER_COUNT.md) | [Filtering by Mood](./chapters/DAILY_JOURNAL_FILTERING_MOOD.md) | [Recording Scores](./chapters/TF_ROUND_SCORES.md) |
-| 16 | [Multiple Facilities](./chapters/GLASSDALE_CRIMINAL_FACILITIES.md) <br/> <sub style="font-size:0.85rem;">#data-relationships</sub> |  |  |  |
+| 16 | [Multiple Cohorts](./chapters/TACOD_INSTRUCTOR_COHORTS.md) <br/> <sub style="font-size:0.85rem;">#data-relationships</sub> |  |  |  |
 | 17 | [Facility List](./chapters/GLASSDALE_FACILITY_LIST.md) <br/> <sub style="font-size:0.85rem;">#data-relationships</sub> |  | [Challenge: Tagging Journal Entries](./chapters/DAILY_JOURNAL_TAGS.md) |  |
 | 👨‍👨‍👦‍👦 | **_Group Project: Nutshell_** |  |  |  |
 
