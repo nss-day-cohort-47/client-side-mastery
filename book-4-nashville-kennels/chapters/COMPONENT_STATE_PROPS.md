@@ -36,7 +36,7 @@ Now we want to use the new data to populate our animal cards. We pass the data t
 
 Change the return of the **`AnimalList`** component:
 
-> AnimalList.js
+> src/components/animals/AnimalList.js
 
 ```jsx
 export const AnimalList = () => {

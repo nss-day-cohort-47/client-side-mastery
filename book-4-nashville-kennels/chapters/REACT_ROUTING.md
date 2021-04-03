@@ -6,7 +6,13 @@ In React, you will use something called a Router to handle the rendering of diff
 
 ## Setup
 
-Make sure you are in your project's root directory. First, we need to install `react-router-dom`. Then we will create an additional file to handle the routing and create a navbar.
+Make sure you are in your project's root directory.
+
+```sh
+cd ~/workspace/kennels
+```
+
+First, we need to install `react-router-dom`. Then we will create an additional file to handle the routing and create a navbar.
 
 Documentation for [react-router-dom](https://reactrouter.com/web/guides/quick-start)
 
@@ -16,7 +22,7 @@ touch src/components/ApplicationViews.js
 mkdir src/components/nav
 touch src/components/nav/NavBar.js
 touch src/components/nav/NavBar.css
-touch src/Home.js
+touch src/components/Home.js
 ```
 
 ## Making Your Components
@@ -93,7 +99,7 @@ In the **`ApplicationViews`** component, you will define how your application wi
 
 ### Home Component
 
-Use this code for your homepage that will be displayed when navigating to the route of `/`.
+Use this code for your homepage that will be displayed when navigating to the Route of `/`.
 
 > ##### `src/components/Home.js`
 ```jsx
@@ -120,16 +126,17 @@ export const Home = () => (
 import React from "react"
 import { Route } from "react-router-dom"
 import { Home } from "./Home"
+import { AnimalCard } from "./animals/AnimalCard"
 
 export const ApplicationViews = () => {
     return (
         <>
-            {/* Render the location list when http://localhost:3000/ */}
+            {/* Render the Home Component when http://localhost:3000/ */}
             <Route exact path="/">
                 <Home />
             </Route>
 
-            {/* Render the animal list when http://localhost:3000/animals */}
+            {/* Render the AnimalCard Component when http://localhost:3000/animals */}
             <Route path="/animals">
               <AnimalCard />
             </Route>
@@ -190,4 +197,4 @@ With code in place, you should be able to navigate between multiple views and di
 
 ## Practice: Locations, Customers and Employees
 
-Your job is to update **`ApplicationViews`** to make the _Locations_, _Customers_ and _Employees_ links display their matching resources when clicked. You will to display the respected component for each view.
+Your job is to update **`ApplicationViews`** to make the _Locations_, _Customers_ and _Employees_ links display their matching resources when clicked. You will to display the respective component for each view.

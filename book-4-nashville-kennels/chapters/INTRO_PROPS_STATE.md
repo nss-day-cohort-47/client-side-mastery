@@ -6,11 +6,10 @@
 
 Inside of the `components` directory, make another file `PropsAndState.js`.
 
-
 ## Props
 Pass your name into a component and display it.
 
-> PropsAndState.js
+> src/components/PropsAndState.js
 ```jsx
 import React from "react"
 
@@ -25,7 +24,7 @@ export const PropsAndState = ({ yourName }) => {
 ```
 Display this component from the *Kennel* component and pass in your name. Don't forget to import.
 
-> Kennel.js
+> src/components/Kennel.js
 ```jsx
 //--------
  <PropsAndState yourName="Brenda" />
@@ -51,7 +50,7 @@ Display this component from the *Kennel* component and pass in your name. Don't 
 
 Within the **PropsAndState** component, we will define state and a function to update state with the `useState` hook. We will also create a function to `handleClick`.
 
-> PropsAndState.js - updated
+> src/components/PropsAndState.js - updated
 ```jsx
 import React, { useState } from "react"
 
